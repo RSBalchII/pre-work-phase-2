@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9222b44f-d144-4a14-9434-7a4d3febd538" name="pre-work-phase-2">
+        <fileTransfer rootFolder="C:\Users\Rob\Desktop\boot camp\git\pre-work-phase-2" accessType="SFTP" host="Rob-PC" port="22" sshConfigId="f032e0d2-003e-4073-8531-b2f48412dfcb" sshConfig="rbalchii@ddc-web-student.cnm.edu@Rob-PC:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
